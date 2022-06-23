@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Powersupply.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Powersupply.SchDoc|Designator=U_NegativeRegulator|SchDesignator=U_NegativeRegulator|FileName=NegativeRegulator.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=NegativeRegulator.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Powersupply.SchDoc|Designator=U_PositiveRegulator|SchDesignator=U_PositiveRegulator|FileName=PositiveRegulator.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=PositiveRegulator.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
